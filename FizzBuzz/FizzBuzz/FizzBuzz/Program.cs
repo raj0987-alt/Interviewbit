@@ -1,24 +1,24 @@
-﻿int A = 51;
+﻿int A = 15;
 List<string> list = new List<string>();
-int t = 0;
-for (int i = 0; i < A; i++)
+
+for (int i = 1; i <= A; i++)
 {
-    t = i + 1;
-    if(t%3 == 0 && t%5 == 0)
+  
+    if(i%15 == 0)
     {
         list.Add("FizzBuzz");
     }
-    else if(t%3 == 0)
+    else if(i%3 == 0)
     {
         list.Add("Fizz");
     }
-    else if(t%5 == 0) {
+    else if(i%5 == 0) {
         list.Add("Buzz");
 
     }
     else
     {
-        list.Add(t.ToString());
+        list.Add(i.ToString());
     }
 }
 
