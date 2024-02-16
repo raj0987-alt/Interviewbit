@@ -1,0 +1,14 @@
+D:\Ostad\InterviewBit\FizzBuzz\PrimeNumberSieve\PrimeNumberSieve\bin\Debug\net6.0\PrimeNumberSieve.exe
+D:\Ostad\InterviewBit\FizzBuzz\PrimeNumberSieve\PrimeNumberSieve\bin\Debug\net6.0\PrimeNumberSieve.deps.json
+D:\Ostad\InterviewBit\FizzBuzz\PrimeNumberSieve\PrimeNumberSieve\bin\Debug\net6.0\PrimeNumberSieve.runtimeconfig.json
+D:\Ostad\InterviewBit\FizzBuzz\PrimeNumberSieve\PrimeNumberSieve\bin\Debug\net6.0\PrimeNumberSieve.dll
+D:\Ostad\InterviewBit\FizzBuzz\PrimeNumberSieve\PrimeNumberSieve\bin\Debug\net6.0\PrimeNumberSieve.pdb
+D:\Ostad\InterviewBit\FizzBuzz\PrimeNumberSieve\PrimeNumberSieve\obj\Debug\net6.0\PrimeNumberSieve.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ostad\InterviewBit\FizzBuzz\PrimeNumberSieve\PrimeNumberSieve\obj\Debug\net6.0\PrimeNumberSieve.AssemblyInfoInputs.cache
+D:\Ostad\InterviewBit\FizzBuzz\PrimeNumberSieve\PrimeNumberSieve\obj\Debug\net6.0\PrimeNumberSieve.AssemblyInfo.cs
+D:\Ostad\InterviewBit\FizzBuzz\PrimeNumberSieve\PrimeNumberSieve\obj\Debug\net6.0\PrimeNumberSieve.csproj.CoreCompileInputs.cache
+D:\Ostad\InterviewBit\FizzBuzz\PrimeNumberSieve\PrimeNumberSieve\obj\Debug\net6.0\PrimeNumberSieve.dll
+D:\Ostad\InterviewBit\FizzBuzz\PrimeNumberSieve\PrimeNumberSieve\obj\Debug\net6.0\refint\PrimeNumberSieve.dll
+D:\Ostad\InterviewBit\FizzBuzz\PrimeNumberSieve\PrimeNumberSieve\obj\Debug\net6.0\PrimeNumberSieve.pdb
+D:\Ostad\InterviewBit\FizzBuzz\PrimeNumberSieve\PrimeNumberSieve\obj\Debug\net6.0\PrimeNumberSieve.genruntimeconfig.cache
+D:\Ostad\InterviewBit\FizzBuzz\PrimeNumberSieve\PrimeNumberSieve\obj\Debug\net6.0\ref\PrimeNumberSieve.dll
