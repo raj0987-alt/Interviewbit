@@ -1,0 +1,14 @@
+D:\Ostad\InterviewBit\Sell items\SellItems\SellItems\bin\Debug\net6.0\SellItems.exe
+D:\Ostad\InterviewBit\Sell items\SellItems\SellItems\bin\Debug\net6.0\SellItems.deps.json
+D:\Ostad\InterviewBit\Sell items\SellItems\SellItems\bin\Debug\net6.0\SellItems.runtimeconfig.json
+D:\Ostad\InterviewBit\Sell items\SellItems\SellItems\bin\Debug\net6.0\SellItems.dll
+D:\Ostad\InterviewBit\Sell items\SellItems\SellItems\bin\Debug\net6.0\SellItems.pdb
+D:\Ostad\InterviewBit\Sell items\SellItems\SellItems\obj\Debug\net6.0\SellItems.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ostad\InterviewBit\Sell items\SellItems\SellItems\obj\Debug\net6.0\SellItems.AssemblyInfoInputs.cache
+D:\Ostad\InterviewBit\Sell items\SellItems\SellItems\obj\Debug\net6.0\SellItems.AssemblyInfo.cs
+D:\Ostad\InterviewBit\Sell items\SellItems\SellItems\obj\Debug\net6.0\SellItems.csproj.CoreCompileInputs.cache
+D:\Ostad\InterviewBit\Sell items\SellItems\SellItems\obj\Debug\net6.0\SellItems.dll
+D:\Ostad\InterviewBit\Sell items\SellItems\SellItems\obj\Debug\net6.0\refint\SellItems.dll
+D:\Ostad\InterviewBit\Sell items\SellItems\SellItems\obj\Debug\net6.0\SellItems.pdb
+D:\Ostad\InterviewBit\Sell items\SellItems\SellItems\obj\Debug\net6.0\SellItems.genruntimeconfig.cache
+D:\Ostad\InterviewBit\Sell items\SellItems\SellItems\obj\Debug\net6.0\ref\SellItems.dll
