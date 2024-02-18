@@ -1,0 +1,14 @@
+D:\Ostad\InterviewBit\Sell items\ProductofDigits\ProductofDigits\bin\Debug\net6.0\ProductofDigits.exe
+D:\Ostad\InterviewBit\Sell items\ProductofDigits\ProductofDigits\bin\Debug\net6.0\ProductofDigits.deps.json
+D:\Ostad\InterviewBit\Sell items\ProductofDigits\ProductofDigits\bin\Debug\net6.0\ProductofDigits.runtimeconfig.json
+D:\Ostad\InterviewBit\Sell items\ProductofDigits\ProductofDigits\bin\Debug\net6.0\ProductofDigits.dll
+D:\Ostad\InterviewBit\Sell items\ProductofDigits\ProductofDigits\bin\Debug\net6.0\ProductofDigits.pdb
+D:\Ostad\InterviewBit\Sell items\ProductofDigits\ProductofDigits\obj\Debug\net6.0\ProductofDigits.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ostad\InterviewBit\Sell items\ProductofDigits\ProductofDigits\obj\Debug\net6.0\ProductofDigits.AssemblyInfoInputs.cache
+D:\Ostad\InterviewBit\Sell items\ProductofDigits\ProductofDigits\obj\Debug\net6.0\ProductofDigits.AssemblyInfo.cs
+D:\Ostad\InterviewBit\Sell items\ProductofDigits\ProductofDigits\obj\Debug\net6.0\ProductofDigits.csproj.CoreCompileInputs.cache
+D:\Ostad\InterviewBit\Sell items\ProductofDigits\ProductofDigits\obj\Debug\net6.0\ProductofDigits.dll
+D:\Ostad\InterviewBit\Sell items\ProductofDigits\ProductofDigits\obj\Debug\net6.0\refint\ProductofDigits.dll
+D:\Ostad\InterviewBit\Sell items\ProductofDigits\ProductofDigits\obj\Debug\net6.0\ProductofDigits.pdb
+D:\Ostad\InterviewBit\Sell items\ProductofDigits\ProductofDigits\obj\Debug\net6.0\ProductofDigits.genruntimeconfig.cache
+D:\Ostad\InterviewBit\Sell items\ProductofDigits\ProductofDigits\obj\Debug\net6.0\ref\ProductofDigits.dll
