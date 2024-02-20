@@ -1,0 +1,14 @@
+D:\Ostad\InterviewBit\Check Palindrome!\HighestProduct\HighestProduct\bin\Debug\net6.0\HighestProduct.exe
+D:\Ostad\InterviewBit\Check Palindrome!\HighestProduct\HighestProduct\bin\Debug\net6.0\HighestProduct.deps.json
+D:\Ostad\InterviewBit\Check Palindrome!\HighestProduct\HighestProduct\bin\Debug\net6.0\HighestProduct.runtimeconfig.json
+D:\Ostad\InterviewBit\Check Palindrome!\HighestProduct\HighestProduct\bin\Debug\net6.0\HighestProduct.dll
+D:\Ostad\InterviewBit\Check Palindrome!\HighestProduct\HighestProduct\bin\Debug\net6.0\HighestProduct.pdb
+D:\Ostad\InterviewBit\Check Palindrome!\HighestProduct\HighestProduct\obj\Debug\net6.0\HighestProduct.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ostad\InterviewBit\Check Palindrome!\HighestProduct\HighestProduct\obj\Debug\net6.0\HighestProduct.AssemblyInfoInputs.cache
+D:\Ostad\InterviewBit\Check Palindrome!\HighestProduct\HighestProduct\obj\Debug\net6.0\HighestProduct.AssemblyInfo.cs
+D:\Ostad\InterviewBit\Check Palindrome!\HighestProduct\HighestProduct\obj\Debug\net6.0\HighestProduct.csproj.CoreCompileInputs.cache
+D:\Ostad\InterviewBit\Check Palindrome!\HighestProduct\HighestProduct\obj\Debug\net6.0\HighestProduct.dll
+D:\Ostad\InterviewBit\Check Palindrome!\HighestProduct\HighestProduct\obj\Debug\net6.0\refint\HighestProduct.dll
+D:\Ostad\InterviewBit\Check Palindrome!\HighestProduct\HighestProduct\obj\Debug\net6.0\HighestProduct.pdb
+D:\Ostad\InterviewBit\Check Palindrome!\HighestProduct\HighestProduct\obj\Debug\net6.0\HighestProduct.genruntimeconfig.cache
+D:\Ostad\InterviewBit\Check Palindrome!\HighestProduct\HighestProduct\obj\Debug\net6.0\ref\HighestProduct.dll
