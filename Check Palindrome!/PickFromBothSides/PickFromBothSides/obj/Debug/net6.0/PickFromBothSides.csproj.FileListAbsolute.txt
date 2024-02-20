@@ -1,0 +1,14 @@
+D:\Ostad\InterviewBit\Check Palindrome!\PickFromBothSides\PickFromBothSides\bin\Debug\net6.0\PickFromBothSides.exe
+D:\Ostad\InterviewBit\Check Palindrome!\PickFromBothSides\PickFromBothSides\bin\Debug\net6.0\PickFromBothSides.deps.json
+D:\Ostad\InterviewBit\Check Palindrome!\PickFromBothSides\PickFromBothSides\bin\Debug\net6.0\PickFromBothSides.runtimeconfig.json
+D:\Ostad\InterviewBit\Check Palindrome!\PickFromBothSides\PickFromBothSides\bin\Debug\net6.0\PickFromBothSides.dll
+D:\Ostad\InterviewBit\Check Palindrome!\PickFromBothSides\PickFromBothSides\bin\Debug\net6.0\PickFromBothSides.pdb
+D:\Ostad\InterviewBit\Check Palindrome!\PickFromBothSides\PickFromBothSides\obj\Debug\net6.0\PickFromBothSides.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ostad\InterviewBit\Check Palindrome!\PickFromBothSides\PickFromBothSides\obj\Debug\net6.0\PickFromBothSides.AssemblyInfoInputs.cache
+D:\Ostad\InterviewBit\Check Palindrome!\PickFromBothSides\PickFromBothSides\obj\Debug\net6.0\PickFromBothSides.AssemblyInfo.cs
+D:\Ostad\InterviewBit\Check Palindrome!\PickFromBothSides\PickFromBothSides\obj\Debug\net6.0\PickFromBothSides.csproj.CoreCompileInputs.cache
+D:\Ostad\InterviewBit\Check Palindrome!\PickFromBothSides\PickFromBothSides\obj\Debug\net6.0\PickFromBothSides.dll
+D:\Ostad\InterviewBit\Check Palindrome!\PickFromBothSides\PickFromBothSides\obj\Debug\net6.0\refint\PickFromBothSides.dll
+D:\Ostad\InterviewBit\Check Palindrome!\PickFromBothSides\PickFromBothSides\obj\Debug\net6.0\PickFromBothSides.pdb
+D:\Ostad\InterviewBit\Check Palindrome!\PickFromBothSides\PickFromBothSides\obj\Debug\net6.0\PickFromBothSides.genruntimeconfig.cache
+D:\Ostad\InterviewBit\Check Palindrome!\PickFromBothSides\PickFromBothSides\obj\Debug\net6.0\ref\PickFromBothSides.dll
