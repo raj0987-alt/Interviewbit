@@ -1,0 +1,14 @@
+D:\Int Bit\Interviewbit\OddEvenRule\OddEvenRule\bin\Debug\net6.0\OddEvenRule.exe
+D:\Int Bit\Interviewbit\OddEvenRule\OddEvenRule\bin\Debug\net6.0\OddEvenRule.deps.json
+D:\Int Bit\Interviewbit\OddEvenRule\OddEvenRule\bin\Debug\net6.0\OddEvenRule.runtimeconfig.json
+D:\Int Bit\Interviewbit\OddEvenRule\OddEvenRule\bin\Debug\net6.0\OddEvenRule.dll
+D:\Int Bit\Interviewbit\OddEvenRule\OddEvenRule\bin\Debug\net6.0\OddEvenRule.pdb
+D:\Int Bit\Interviewbit\OddEvenRule\OddEvenRule\obj\Debug\net6.0\OddEvenRule.GeneratedMSBuildEditorConfig.editorconfig
+D:\Int Bit\Interviewbit\OddEvenRule\OddEvenRule\obj\Debug\net6.0\OddEvenRule.AssemblyInfoInputs.cache
+D:\Int Bit\Interviewbit\OddEvenRule\OddEvenRule\obj\Debug\net6.0\OddEvenRule.AssemblyInfo.cs
+D:\Int Bit\Interviewbit\OddEvenRule\OddEvenRule\obj\Debug\net6.0\OddEvenRule.csproj.CoreCompileInputs.cache
+D:\Int Bit\Interviewbit\OddEvenRule\OddEvenRule\obj\Debug\net6.0\OddEvenRule.dll
+D:\Int Bit\Interviewbit\OddEvenRule\OddEvenRule\obj\Debug\net6.0\refint\OddEvenRule.dll
+D:\Int Bit\Interviewbit\OddEvenRule\OddEvenRule\obj\Debug\net6.0\OddEvenRule.pdb
+D:\Int Bit\Interviewbit\OddEvenRule\OddEvenRule\obj\Debug\net6.0\OddEvenRule.genruntimeconfig.cache
+D:\Int Bit\Interviewbit\OddEvenRule\OddEvenRule\obj\Debug\net6.0\ref\OddEvenRule.dll
