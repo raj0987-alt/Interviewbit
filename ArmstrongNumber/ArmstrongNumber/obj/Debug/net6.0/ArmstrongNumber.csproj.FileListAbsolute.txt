@@ -1,0 +1,14 @@
+D:\Int Bit\Interviewbit\ArmstrongNumber\ArmstrongNumber\bin\Debug\net6.0\ArmstrongNumber.exe
+D:\Int Bit\Interviewbit\ArmstrongNumber\ArmstrongNumber\bin\Debug\net6.0\ArmstrongNumber.deps.json
+D:\Int Bit\Interviewbit\ArmstrongNumber\ArmstrongNumber\bin\Debug\net6.0\ArmstrongNumber.runtimeconfig.json
+D:\Int Bit\Interviewbit\ArmstrongNumber\ArmstrongNumber\bin\Debug\net6.0\ArmstrongNumber.dll
+D:\Int Bit\Interviewbit\ArmstrongNumber\ArmstrongNumber\bin\Debug\net6.0\ArmstrongNumber.pdb
+D:\Int Bit\Interviewbit\ArmstrongNumber\ArmstrongNumber\obj\Debug\net6.0\ArmstrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Int Bit\Interviewbit\ArmstrongNumber\ArmstrongNumber\obj\Debug\net6.0\ArmstrongNumber.AssemblyInfoInputs.cache
+D:\Int Bit\Interviewbit\ArmstrongNumber\ArmstrongNumber\obj\Debug\net6.0\ArmstrongNumber.AssemblyInfo.cs
+D:\Int Bit\Interviewbit\ArmstrongNumber\ArmstrongNumber\obj\Debug\net6.0\ArmstrongNumber.csproj.CoreCompileInputs.cache
+D:\Int Bit\Interviewbit\ArmstrongNumber\ArmstrongNumber\obj\Debug\net6.0\ArmstrongNumber.dll
+D:\Int Bit\Interviewbit\ArmstrongNumber\ArmstrongNumber\obj\Debug\net6.0\refint\ArmstrongNumber.dll
+D:\Int Bit\Interviewbit\ArmstrongNumber\ArmstrongNumber\obj\Debug\net6.0\ArmstrongNumber.pdb
+D:\Int Bit\Interviewbit\ArmstrongNumber\ArmstrongNumber\obj\Debug\net6.0\ArmstrongNumber.genruntimeconfig.cache
+D:\Int Bit\Interviewbit\ArmstrongNumber\ArmstrongNumber\obj\Debug\net6.0\ref\ArmstrongNumber.dll
