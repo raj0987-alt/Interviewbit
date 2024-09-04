@@ -1,0 +1,14 @@
+D:\Int Bit\Interviewbit\SocksPair\SocksPair\bin\Debug\net6.0\SocksPair.exe
+D:\Int Bit\Interviewbit\SocksPair\SocksPair\bin\Debug\net6.0\SocksPair.deps.json
+D:\Int Bit\Interviewbit\SocksPair\SocksPair\bin\Debug\net6.0\SocksPair.runtimeconfig.json
+D:\Int Bit\Interviewbit\SocksPair\SocksPair\bin\Debug\net6.0\SocksPair.dll
+D:\Int Bit\Interviewbit\SocksPair\SocksPair\bin\Debug\net6.0\SocksPair.pdb
+D:\Int Bit\Interviewbit\SocksPair\SocksPair\obj\Debug\net6.0\SocksPair.GeneratedMSBuildEditorConfig.editorconfig
+D:\Int Bit\Interviewbit\SocksPair\SocksPair\obj\Debug\net6.0\SocksPair.AssemblyInfoInputs.cache
+D:\Int Bit\Interviewbit\SocksPair\SocksPair\obj\Debug\net6.0\SocksPair.AssemblyInfo.cs
+D:\Int Bit\Interviewbit\SocksPair\SocksPair\obj\Debug\net6.0\SocksPair.csproj.CoreCompileInputs.cache
+D:\Int Bit\Interviewbit\SocksPair\SocksPair\obj\Debug\net6.0\SocksPair.dll
+D:\Int Bit\Interviewbit\SocksPair\SocksPair\obj\Debug\net6.0\refint\SocksPair.dll
+D:\Int Bit\Interviewbit\SocksPair\SocksPair\obj\Debug\net6.0\SocksPair.pdb
+D:\Int Bit\Interviewbit\SocksPair\SocksPair\obj\Debug\net6.0\SocksPair.genruntimeconfig.cache
+D:\Int Bit\Interviewbit\SocksPair\SocksPair\obj\Debug\net6.0\ref\SocksPair.dll

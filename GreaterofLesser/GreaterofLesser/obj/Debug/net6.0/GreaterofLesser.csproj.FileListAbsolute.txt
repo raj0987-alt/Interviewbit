@@ -1,0 +1,4 @@
+D:\Int Bit\Interviewbit\GreaterofLesser\GreaterofLesser\obj\Debug\net6.0\GreaterofLesser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Int Bit\Interviewbit\GreaterofLesser\GreaterofLesser\obj\Debug\net6.0\GreaterofLesser.AssemblyInfoInputs.cache
+D:\Int Bit\Interviewbit\GreaterofLesser\GreaterofLesser\obj\Debug\net6.0\GreaterofLesser.AssemblyInfo.cs
+D:\Int Bit\Interviewbit\GreaterofLesser\GreaterofLesser\obj\Debug\net6.0\GreaterofLesser.csproj.CoreCompileInputs.cache
