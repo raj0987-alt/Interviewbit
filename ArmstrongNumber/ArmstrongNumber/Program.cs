@@ -1,4 +1,6 @@
-﻿int solve(int A)
+﻿using System.Text;
+
+int solve(int A)
 {
     int result = 0;
     var str = A.ToString();
@@ -18,4 +20,6 @@
         return 0;  // Not an Armstrong number
     }
 }
+
+
 Console.WriteLine(solve(371));
