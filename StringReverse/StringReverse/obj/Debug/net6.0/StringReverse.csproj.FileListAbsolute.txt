@@ -1,0 +1,14 @@
+D:\Int Bit\Interviewbit\StringReverse\StringReverse\bin\Debug\net6.0\StringReverse.exe
+D:\Int Bit\Interviewbit\StringReverse\StringReverse\bin\Debug\net6.0\StringReverse.deps.json
+D:\Int Bit\Interviewbit\StringReverse\StringReverse\bin\Debug\net6.0\StringReverse.runtimeconfig.json
+D:\Int Bit\Interviewbit\StringReverse\StringReverse\bin\Debug\net6.0\StringReverse.dll
+D:\Int Bit\Interviewbit\StringReverse\StringReverse\bin\Debug\net6.0\StringReverse.pdb
+D:\Int Bit\Interviewbit\StringReverse\StringReverse\obj\Debug\net6.0\StringReverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Int Bit\Interviewbit\StringReverse\StringReverse\obj\Debug\net6.0\StringReverse.AssemblyInfoInputs.cache
+D:\Int Bit\Interviewbit\StringReverse\StringReverse\obj\Debug\net6.0\StringReverse.AssemblyInfo.cs
+D:\Int Bit\Interviewbit\StringReverse\StringReverse\obj\Debug\net6.0\StringReverse.csproj.CoreCompileInputs.cache
+D:\Int Bit\Interviewbit\StringReverse\StringReverse\obj\Debug\net6.0\StringReverse.dll
+D:\Int Bit\Interviewbit\StringReverse\StringReverse\obj\Debug\net6.0\refint\StringReverse.dll
+D:\Int Bit\Interviewbit\StringReverse\StringReverse\obj\Debug\net6.0\StringReverse.pdb
+D:\Int Bit\Interviewbit\StringReverse\StringReverse\obj\Debug\net6.0\StringReverse.genruntimeconfig.cache
+D:\Int Bit\Interviewbit\StringReverse\StringReverse\obj\Debug\net6.0\ref\StringReverse.dll

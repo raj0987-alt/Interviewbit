@@ -1,0 +1,14 @@
+D:\Int Bit\Interviewbit\ColorOfTheBear\ColorOfTheBear\bin\Debug\net6.0\ColorOfTheBear.exe
+D:\Int Bit\Interviewbit\ColorOfTheBear\ColorOfTheBear\bin\Debug\net6.0\ColorOfTheBear.deps.json
+D:\Int Bit\Interviewbit\ColorOfTheBear\ColorOfTheBear\bin\Debug\net6.0\ColorOfTheBear.runtimeconfig.json
+D:\Int Bit\Interviewbit\ColorOfTheBear\ColorOfTheBear\bin\Debug\net6.0\ColorOfTheBear.dll
+D:\Int Bit\Interviewbit\ColorOfTheBear\ColorOfTheBear\bin\Debug\net6.0\ColorOfTheBear.pdb
+D:\Int Bit\Interviewbit\ColorOfTheBear\ColorOfTheBear\obj\Debug\net6.0\ColorOfTheBear.GeneratedMSBuildEditorConfig.editorconfig
+D:\Int Bit\Interviewbit\ColorOfTheBear\ColorOfTheBear\obj\Debug\net6.0\ColorOfTheBear.AssemblyInfoInputs.cache
+D:\Int Bit\Interviewbit\ColorOfTheBear\ColorOfTheBear\obj\Debug\net6.0\ColorOfTheBear.AssemblyInfo.cs
+D:\Int Bit\Interviewbit\ColorOfTheBear\ColorOfTheBear\obj\Debug\net6.0\ColorOfTheBear.csproj.CoreCompileInputs.cache
+D:\Int Bit\Interviewbit\ColorOfTheBear\ColorOfTheBear\obj\Debug\net6.0\ColorOfTheBear.dll
+D:\Int Bit\Interviewbit\ColorOfTheBear\ColorOfTheBear\obj\Debug\net6.0\refint\ColorOfTheBear.dll
+D:\Int Bit\Interviewbit\ColorOfTheBear\ColorOfTheBear\obj\Debug\net6.0\ColorOfTheBear.pdb
+D:\Int Bit\Interviewbit\ColorOfTheBear\ColorOfTheBear\obj\Debug\net6.0\ColorOfTheBear.genruntimeconfig.cache
+D:\Int Bit\Interviewbit\ColorOfTheBear\ColorOfTheBear\obj\Debug\net6.0\ref\ColorOfTheBear.dll

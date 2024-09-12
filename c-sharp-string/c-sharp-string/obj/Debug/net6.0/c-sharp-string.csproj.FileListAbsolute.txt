@@ -1,0 +1,14 @@
+D:\Int Bit\Interviewbit\c-sharp-string\c-sharp-string\bin\Debug\net6.0\c-sharp-string.exe
+D:\Int Bit\Interviewbit\c-sharp-string\c-sharp-string\bin\Debug\net6.0\c-sharp-string.deps.json
+D:\Int Bit\Interviewbit\c-sharp-string\c-sharp-string\bin\Debug\net6.0\c-sharp-string.runtimeconfig.json
+D:\Int Bit\Interviewbit\c-sharp-string\c-sharp-string\bin\Debug\net6.0\c-sharp-string.dll
+D:\Int Bit\Interviewbit\c-sharp-string\c-sharp-string\bin\Debug\net6.0\c-sharp-string.pdb
+D:\Int Bit\Interviewbit\c-sharp-string\c-sharp-string\obj\Debug\net6.0\c-sharp-string.GeneratedMSBuildEditorConfig.editorconfig
+D:\Int Bit\Interviewbit\c-sharp-string\c-sharp-string\obj\Debug\net6.0\c-sharp-string.AssemblyInfoInputs.cache
+D:\Int Bit\Interviewbit\c-sharp-string\c-sharp-string\obj\Debug\net6.0\c-sharp-string.AssemblyInfo.cs
+D:\Int Bit\Interviewbit\c-sharp-string\c-sharp-string\obj\Debug\net6.0\c-sharp-string.csproj.CoreCompileInputs.cache
+D:\Int Bit\Interviewbit\c-sharp-string\c-sharp-string\obj\Debug\net6.0\c-sharp-string.dll
+D:\Int Bit\Interviewbit\c-sharp-string\c-sharp-string\obj\Debug\net6.0\refint\c-sharp-string.dll
+D:\Int Bit\Interviewbit\c-sharp-string\c-sharp-string\obj\Debug\net6.0\c-sharp-string.pdb
+D:\Int Bit\Interviewbit\c-sharp-string\c-sharp-string\obj\Debug\net6.0\c-sharp-string.genruntimeconfig.cache
+D:\Int Bit\Interviewbit\c-sharp-string\c-sharp-string\obj\Debug\net6.0\ref\c-sharp-string.dll
