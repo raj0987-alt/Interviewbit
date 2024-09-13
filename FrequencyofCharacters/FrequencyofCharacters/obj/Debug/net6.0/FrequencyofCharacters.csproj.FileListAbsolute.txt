@@ -1,0 +1,14 @@
+D:\Int Bit\Interviewbit\FrequencyofCharacters\FrequencyofCharacters\bin\Debug\net6.0\FrequencyofCharacters.exe
+D:\Int Bit\Interviewbit\FrequencyofCharacters\FrequencyofCharacters\bin\Debug\net6.0\FrequencyofCharacters.deps.json
+D:\Int Bit\Interviewbit\FrequencyofCharacters\FrequencyofCharacters\bin\Debug\net6.0\FrequencyofCharacters.runtimeconfig.json
+D:\Int Bit\Interviewbit\FrequencyofCharacters\FrequencyofCharacters\bin\Debug\net6.0\FrequencyofCharacters.dll
+D:\Int Bit\Interviewbit\FrequencyofCharacters\FrequencyofCharacters\bin\Debug\net6.0\FrequencyofCharacters.pdb
+D:\Int Bit\Interviewbit\FrequencyofCharacters\FrequencyofCharacters\obj\Debug\net6.0\FrequencyofCharacters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Int Bit\Interviewbit\FrequencyofCharacters\FrequencyofCharacters\obj\Debug\net6.0\FrequencyofCharacters.AssemblyInfoInputs.cache
+D:\Int Bit\Interviewbit\FrequencyofCharacters\FrequencyofCharacters\obj\Debug\net6.0\FrequencyofCharacters.AssemblyInfo.cs
+D:\Int Bit\Interviewbit\FrequencyofCharacters\FrequencyofCharacters\obj\Debug\net6.0\FrequencyofCharacters.csproj.CoreCompileInputs.cache
+D:\Int Bit\Interviewbit\FrequencyofCharacters\FrequencyofCharacters\obj\Debug\net6.0\FrequencyofCharacters.dll
+D:\Int Bit\Interviewbit\FrequencyofCharacters\FrequencyofCharacters\obj\Debug\net6.0\refint\FrequencyofCharacters.dll
+D:\Int Bit\Interviewbit\FrequencyofCharacters\FrequencyofCharacters\obj\Debug\net6.0\FrequencyofCharacters.pdb
+D:\Int Bit\Interviewbit\FrequencyofCharacters\FrequencyofCharacters\obj\Debug\net6.0\FrequencyofCharacters.genruntimeconfig.cache
+D:\Int Bit\Interviewbit\FrequencyofCharacters\FrequencyofCharacters\obj\Debug\net6.0\ref\FrequencyofCharacters.dll
